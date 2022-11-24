@@ -1,11 +1,11 @@
-# lista-de-salada-de-fruta
+ lista-de-salada-de-fruta
 salada de fruta na escola
 <!DOCTYPE HTML>
 <html>
 <html lang="pt-br">
  <head>
       <meta charset="UTF-8">
-#LISTA DE INGREDIENTES PARA REALIZAR UMA SALA DE FRUTAS - não ordenada
+<h2><i>LISTA DE INGREDIENTES PARA REALIZAR UMA SALA DE FRUTAS - não ordenada</i><</h2>
 
   <h1>SALADA DE FRUTAS</h1> 
 
